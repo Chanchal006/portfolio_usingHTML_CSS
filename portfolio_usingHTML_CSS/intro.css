@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+
+.devinfo h1{
+    font-family: 'Fira Sans', sans-serif; 
+    text-decoration: underline;
+    /* padding-top:15x; */
+    padding-bottom:20px ;
+    
+}
+.devinfo h2{
+    font-family: 'Fira Sans', sans-serif; 
+    text-decoration: underline;
+    padding-top:30px;
+    padding-bottom:20px ;
+}
+.skillcontainer{
+    font-weight: bold;
+    font-size: 19px;
+}
+.html{
+    height: 10px;
+    width: 300px;
+    background-color: red;
+    border:1px solid black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+}
+.css{
+    height: 10px;
+    width: 256px;
+    background-color: green;
+    border:1px solid black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+
+}
+.php{
+    height: 10px;
+    width: 156px;
+    background-color:yellow;
+    border:1px solid black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+
+}
+.js{
+    height: 10px;
+    width: 200px;
+    background-color: violet;
+    border:1px solid black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+
+}
+.py{
+    height: 10px;
+    width: 180px;
+    background-color: lightslategray;
+    border:1px solid black;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+
+}
